@@ -1,0 +1,40 @@
+.calculator {
+  background-color: #000;
+  padding: 20px;
+  border-radius: 12px;
+
+  width: 350px;
+}
+
+.calculator-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.nums {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.nums button:nth-child(9n) {
+  flex: 1;
+  border-radius: 25px;
+}
+
+.nums button:last-child {
+  flex: 1;
+  border-radius: 25px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.actions button {
+  background-color: #F59906;
+}

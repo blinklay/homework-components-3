@@ -1,0 +1,10 @@
+.calculator-insert {
+  width: 100%;
+  font-size: 52px;
+  padding: 5px 10px;
+  background-color: transparent;
+  border: none;
+  text-align: right;
+  outline: none;
+  cursor: default;
+}
