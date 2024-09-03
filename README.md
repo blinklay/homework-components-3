@@ -1,6 +1,6 @@
 # Homework Components 3
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](./public/screenshot.jpg)
 
 ## Описание
 
